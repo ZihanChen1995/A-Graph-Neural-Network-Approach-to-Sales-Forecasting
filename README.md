@@ -8,7 +8,7 @@ This repository provides the author accepted manuscript of **Let Clickstream Tal
 
 ## Read the paper
 
-- [Let Clickstream Talk: A Graph Neural Network Approach to Sales Forecasting — Accepted Manuscript (PDF)](let-clickstream-talk-a-graph-neural-network-approach-to-sales-forecasting-accepted-manuscript.pdf)
+- [Let Clickstream Talk: A Graph Neural Network Approach to Sales Forecasting — Accepted Manuscript (PDF)](let-clickstream-talk-a-graph-neural-network-approach-to-sales-forecasting.pdf)
 - [Published article on Sage Journals](https://doi.org/10.1177/10591478261490953)
 
 The paper introduces ForecastClickGraph, a graph neural network framework that uses clickstream data to model cross-product relationships and forecast sales, including demand bursts.
