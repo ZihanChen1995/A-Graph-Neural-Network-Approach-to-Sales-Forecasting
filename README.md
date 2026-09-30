@@ -34,7 +34,7 @@ The publisher's final PDF has different sharing restrictions; the permission to 
 
 ## Citation
 
-Liu, R., Chen, Z., Zhang, D., Mai, F., & Zhao, X. (2026). Let clickstream talk: A graph neural network approach to sales forecasting. *Production and Operations Management*. https://doi.org/10.1177/10591478261490953
+Liu, R., Chen, Z., Zhang, D., Mai, F., & Zhao, X. (2026). Let clickstream talk: A graph neural network approach to sales forecasting. *Production and Operations Management, 0*(0). https://doi.org/10.1177/10591478261490953
 
 ```bibtex
 @article{liu2026clickstream,
@@ -42,6 +42,9 @@ Liu, R., Chen, Z., Zhang, D., Mai, F., & Zhao, X. (2026). Let clickstream talk: 
   author  = {Liu, Rong and Chen, Zihan and Zhang, Denghui and Mai, Feng and Zhao, Xuying},
   journal = {Production and Operations Management},
   year    = {2026},
+  volume  = {0},
+  number  = {0},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA},
   doi     = {10.1177/10591478261490953},
   url     = {https://doi.org/10.1177/10591478261490953}
 }
