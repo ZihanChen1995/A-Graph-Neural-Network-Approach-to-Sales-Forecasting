@@ -6,18 +6,18 @@ This repository provides the author accepted manuscript of **Let Clickstream Tal
 **Journal:** *Production and Operations Management* (2026)  
 **DOI:** [10.1177/10591478261490953](https://doi.org/10.1177/10591478261490953)
 
+<p align="center">
+  <a href="assets/forecastclickgraph-overview.png"><img src="assets/forecastclickgraph-overview.png" width="700" alt="ForecastClickGraph framework overview: clickstream graphs feed time-series, graph-attention, and burst-detection components to produce multi-step quantile forecasts."></a>
+</p>
+
+*ForecastClickGraph Overview: A Cross-learning Framework for Multi-step Probabilistic Forecasts. ForecastClickGraph combines time-series embeddings, graph-attention-based neighbor information, and demand-burst signals to produce multi-step probabilistic sales forecasts. The right panel shows the quantile forecasting module.*
+
 ## Read the paper
 
 - [Let Clickstream Talk: A Graph Neural Network Approach to Sales Forecasting — Accepted Manuscript (PDF)](let-clickstream-talk-a-graph-neural-network-approach-to-sales-forecasting.pdf)
 - [Published article on Sage Journals](https://doi.org/10.1177/10591478261490953)
 
 The paper introduces ForecastClickGraph, a graph neural network framework that uses clickstream data to model cross-product relationships and forecast sales, including demand bursts.
-
-### ForecastClickGraph: A Cross-learning Framework for Multi-step Probabilistic Forecasts
-
-![ForecastClickGraph framework overview: clickstream graphs feed time-series, graph-attention, and burst-detection components to produce multi-step quantile forecasts.](assets/forecastclickgraph-overview.png)
-
-*Framework overview. ForecastClickGraph combines time-series embeddings, graph-attention-based neighbor information, and demand-burst signals to produce multi-step probabilistic sales forecasts. The right panel shows the quantile forecasting module.*
 
 ## Manuscript version
 
