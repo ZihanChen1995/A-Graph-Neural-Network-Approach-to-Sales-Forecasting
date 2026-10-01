@@ -7,7 +7,7 @@ This repository provides the author accepted manuscript of **Let Clickstream Tal
 **DOI:** [10.1177/10591478261490953](https://doi.org/10.1177/10591478261490953)
 
 <p align="center">
-  <a href="assets/forecastclickgraph-overview.png"><img src="assets/forecastclickgraph-overview.png" width="700" alt="ForecastClickGraph framework overview: clickstream graphs feed time-series, graph-attention, and burst-detection components to produce multi-step quantile forecasts."></a>
+  <a href="assets/forecastclickgraph-overview.png"><img src="assets/forecastclickgraph-overview.png" width="100%" alt="ForecastClickGraph framework overview: clickstream graphs feed time-series, graph-attention, and burst-detection components to produce multi-step quantile forecasts."></a>
 </p>
 
 *ForecastClickGraph Overview: A Cross-learning Framework for Multi-step Probabilistic Forecasts. ForecastClickGraph combines time-series embeddings, graph-attention-based neighbor information, and demand-burst signals to produce multi-step probabilistic sales forecasts. The right panel shows the quantile forecasting module.*
